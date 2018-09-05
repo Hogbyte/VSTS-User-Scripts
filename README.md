@@ -11,7 +11,7 @@ User scripts for Visual Studio Team Services (VSTS) and Team Foundation Server (
 2. Install the user script(s) of your choice:
   *  [All Pages - Load Dark Theme CSS](https://github.com/Hogbyte/VSTS-User-Scripts/raw/master/All_LoadDarkThemeCss.user.js)
   *  [Pull Request List - Add Additional Links](https://github.com/Hogbyte/VSTS-User-Scripts/raw/master/PullRequestList_AddAdditionalLinks.user.js)
-  * [Pull Requset - Add File Check Boxes](https://github.com/Hogbyte/VSTS-User-Scripts/raw/master/PullRequest_AddFileCheckBoxes.user.js)
+  * [Pull Request - Add File Check Boxes](https://github.com/Hogbyte/VSTS-User-Scripts/raw/master/PullRequest_AddFileCheckBoxes.user.js)
   * [Pull Request - Add File Tree Toggle Button](https://github.com/Hogbyte/VSTS-User-Scripts/raw/master/PullRequest_AddFileTreeToggleButton.user.js)
 3. On-premis TFS users: Add match rules to apply the user script(s) to your TFS installation:
   * Click on the Tampermonkey icon to the right of the address bar (default location) to view the Tampermonkey pop-up menu
