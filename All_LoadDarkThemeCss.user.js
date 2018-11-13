@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VSTS - Load Dark Theme CSS
 // @namespace    https://github.com/Hogbyte
-// @version      18.07.16
+// @version      18.11.13
 // @description  Loads a remote CSS file to apply a dark theme to the VSTS/TFS web portal
 // @author       David Christensen
 // @match        https://*.visualstudio.com/*
