@@ -11,7 +11,7 @@
 (function() {
     "use strict";
 
-    const CSS_FILE_URL = "https://cdn.rawgit.com/Hogbyte/VSTS-User-Scripts/master/Themes/ZachPosten_VstsDark.css";
+    const CSS_FILE_URL = "https://gitcdn.link/repo/Hogbyte/VSTS-User-Scripts/master/Themes/ZachPosten_VstsDark.css";
 
     let linkElement = document.createElement("link");
     linkElement.rel = "stylesheet";
